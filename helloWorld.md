@@ -1,5 +1,5 @@
 ##Hello world
 
-*its my
-*first
-*list
+* its my
+* first
+* list
